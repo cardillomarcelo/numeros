@@ -1,0 +1,17 @@
+{
+    "name": "mcardillo/numeros",
+    "require-dev": {
+        "phpunit/phpunit": "7.*"
+    },
+    "authors": [
+        {
+            "name": "Marcelo Cardillo",
+            "email": "marcelo.c@geopagos.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Numeros\\": "./src"
+        }
+    }
+}
